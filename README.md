@@ -12,9 +12,14 @@ Please run main.py for the sentiment classification
 
 The classify() function is used after the script trains the model.
 
-classify(review. pos_vj, neg_vj, vocab) - Takes 4 parameters:
+classify(review. pos_vj, neg_vj, vocab)
 
-review - the review to be classified\n
-pos_vj - The representation of the trained positive reviews\n
-neg_vj - The representation of the trained negative reviews\n
+Takes 4 parameters:
+
+review - the review to be classified
+
+pos_vj - The representation of the trained positive reviews
+
+neg_vj - The representation of the trained negative reviews
+
 vocab - The word corpus
