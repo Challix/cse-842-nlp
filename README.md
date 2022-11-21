@@ -2,10 +2,10 @@
 
 All assignments for the course are uploaded here.
 
-##Assignment 1 - Badges Game
+## Assignment 1 - Badges Game
 
-##Assignment 2 - Sentiment Classifier
+## Assignment 2 - Sentiment Classifier
 
 *Please run main.py for the sentiment classification
 
-##[Extra Credit] Naive Bayesian
+## [Extra Credit] Naive Bayesian
